@@ -6,6 +6,8 @@ TagManager:
   tags:
   - death
   - block
+  - ball
+  - CometContainer
   layers:
   - Default
   - TransparentFX
