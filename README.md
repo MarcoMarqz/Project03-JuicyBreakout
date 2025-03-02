@@ -1,15 +1,23 @@
 # Project03-JuicyBreakout
 
 # Project Name
-Context and date
+Project 03—Juicy Brick-Breaker Marco Marquez
 
-Description
+
+Description: Classic Brick Breaker Game 
+
 
 ## Implementation
-Which features you included
+Added Ball trail 
+Added background in scene one
+Added a scrolling background in both main menu and end menu
+Additonal click sounds for starting and restarting.
+
 
 ## References
+https://www.youtube.com/watch?v=_TcEfIXpmRI (trail-implementation)
 
 ## Future Development
 
 ## Created by
+Marco Marquez
