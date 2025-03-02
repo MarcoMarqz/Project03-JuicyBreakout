@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MainMenuMat
-  m_Shader: {fileID: -6465566751694194690, guid: 7e32a9696f4e06c4facf0828f3fb4f9c, type: 3}
+  m_Name: MainMenuMat 1
+  m_Shader: {fileID: -6465566751694194690, guid: 1995aee8be71747439575869ac14b21f, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -95,6 +95,6 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 0, g: 0.9245283, b: 0.5252915, a: 0}
-    - _SecondaryColor: {r: 0.035848916, g: 0.5310616, b: 1, a: 0}
+    - _MainColor: {r: 0.6301887, g: 0.34487417, b: 0, a: 0}
+    - _SecondaryColor: {r: 0, g: 1, b: 0.07430959, a: 0}
   m_BuildTextureStacks: []
